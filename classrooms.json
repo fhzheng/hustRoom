@@ -1,0 +1,25 @@
+{
+    "startdate": "2015-08-31",
+    "enddate": "2016-01-24",
+    "roomlist": [{
+        "name": "e12",
+        "proctype": 1,
+        "buildnum": "1"
+    }, {
+        "name": "w5",
+        "proctype": 2,
+        "buildnum": "5"
+    }, {
+        "name": "e9",
+        "proctype": 2,
+        "buildnum": "7"
+    }, {
+        "name": "e5",
+        "proctype": 2,
+        "buildnum": "11"
+    }, {
+        "name": "w12",
+        "proctype": 2,
+        "buildnum": "13"
+    }]
+}
